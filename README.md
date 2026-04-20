@@ -44,6 +44,6 @@ Tech Stack
 Python, Pandas, NumPy, Scikit-learn, XGBoost, Streamlit, Plotly, Matplotlib, Seaborn
 
 Output
-AI-based anomaly detection system
-Interactive government transparency dashboard
-Citizen service chatbot
+#AI-based anomaly detection system
+#Interactive government transparency dashboard
+#Citizen service chatbot
